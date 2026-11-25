@@ -11,10 +11,10 @@
 
 <br>
 
-<img src="screenshots/1-home.jpg" width="24%" alt="Главная">
-<img src="screenshots/2-fresh.jpg" width="24%" alt="Свежие серии">
-<img src="screenshots/3-catalog.jpg" width="24%" alt="Каталог аниме">
-<img src="screenshots/4-genres.jpg" width="24%" alt="Подборки по жанрам">
+<img src="1-home.jpg" width="24%" alt="Главная">
+<img src="2-fresh.jpg" width="24%" alt="Свежие серии">
+<img src="3-catalog.jpg" width="24%" alt="Каталог аниме">
+<img src="4-genres.jpg" width="24%" alt="Подборки по жанрам">
 
 </div>
 
